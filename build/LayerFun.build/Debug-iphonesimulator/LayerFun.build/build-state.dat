@@ -1,0 +1,274 @@
+TLayerFun
+v7
+r0
+t332549247.874540
+cCheck dependencies
+cProcessInfoPlistFile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/Info.plist LayerFun-Info.plist
+cCompileXIB /Users/geoff/prog/MSE/LayerFun/MainWindow.xib
+cCompileXIB /Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib
+cProcessPCH /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch.gch LayerFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/main.o /Users/geoff/prog/MSE/LayerFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunAppDelegate.o /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunViewController.o /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun normal i386
+cGenerateDSYMFile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app.dSYM /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun
+cTouch /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004D54CF0300000000000004FE
+t1297403651
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.h
+c000000004E2125CF00000000000001E6
+t1310795215
+s486
+i<UIKit/UIKit.h>
+
+N/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m
+c000000004E2125CF0000000000000AB0
+t1310795215
+s2736
+i"LayerFunAppDelegate.h"
+i"LayerFunViewController.h"
+
+N/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.h
+c000000004E2141B50000000000000117
+t1310802357
+s279
+i<UIKit/UIKit.h>
+
+N/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m
+c000000004E2214FA00000000000008BF
+t1310856442
+s2239
+i"LayerFunViewController.h"
+i<CoreGraphics/CoreGraphics.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib
+c000000004E2145980000000000005D54
+t1310803352
+s23892
+
+N/Users/geoff/prog/MSE/LayerFun/LayerFun_Prefix.pch
+c000000004E2125CF00000000000000B9
+t1310795215
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/geoff/prog/MSE/LayerFun/MainWindow.xib
+c000000004E2125CF0000000000004E35
+t1310795215
+s20021
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app
+t1310856446
+s238
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app.dSYM
+t1310856446
+s102
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/Info.plist
+t1310856443
+s595
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun
+t1310856446
+s17852
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFunViewController.nib
+t1310856444
+s3678
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/MainWindow.nib
+t1310856444
+s1683
+
+N/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/PkgInfo
+t1310856443
+s8
+
+N/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFun.LinkFileList
+c000000004E2214FB000000000000017D
+t1310856443
+s381
+
+N/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunAppDelegate.o
+t1310856446
+s51356
+
+N/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunViewController.o
+t1310856446
+s44112
+
+N/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/main.o
+t1310856446
+s6296
+
+N/Users/geoff/prog/MSE/LayerFun/main.m
+c000000004E2125CF000000000000016B
+t1310795215
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch.gch
+t1310856446
+s15814064
+
+NLayerFun-Info.plist
+c000000004E2125CF000000000000038D
+t1310795215
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332549247#332549247#0(0"0(0#1#0"8611996672#0"0#
+
+CCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunAppDelegate.o /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332549246.067483
+e332549246.272173
+r1
+xCompileC
+xbuild/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunAppDelegate.o
+x/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m332549246#332549246#0(0"0(0#0#60"/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m8611543552#1884"    cd /Users/geoff/prog/MSE/LayerFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-generated-files.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-own-target-headers.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-all-target-headers.hmap -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-project-headers.hmap -F/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -I/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/include -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources/i386 -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources -include /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch -c /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunAppDelegate.m -o /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunAppDelegate.o0#
+
+CCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunViewController.o /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332549246.263584
+e332549246.383356
+r1
+xCompileC
+xbuild/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunViewController.o
+x/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m332549246#332549246#0(0"0(0#0#63"/Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m8611478464#1890"    cd /Users/geoff/prog/MSE/LayerFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-generated-files.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-own-target-headers.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-all-target-headers.hmap -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-project-headers.hmap -F/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -I/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/include -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources/i386 -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources -include /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch -c /Users/geoff/prog/MSE/LayerFun/Classes/LayerFunViewController.m -o /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFunViewController.o0#
+
+CCompileC build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/main.o /Users/geoff/prog/MSE/LayerFun/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s332549246.066269
+e332549246.263484
+r1
+xCompileC
+xbuild/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/main.o
+x/Users/geoff/prog/MSE/LayerFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/geoff/prog/MSE/LayerFun/main.m332549246#332549246#0(0"0(0#0#37"/Users/geoff/prog/MSE/LayerFun/main.m8609844128#1846"    cd /Users/geoff/prog/MSE/LayerFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-generated-files.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-own-target-headers.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-all-target-headers.hmap -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-project-headers.hmap -F/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -I/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/include -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources/i386 -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources -include /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch -c /Users/geoff/prog/MSE/LayerFun/main.m -o /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib
+s332549243.822355
+e332549244.490070
+r1
+xCompileXIB
+x/Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB LayerFunViewController.xib332549243#332549244#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib8604316256#571"    cd /Users/geoff/prog/MSE/LayerFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFunViewController.nib /Users/geoff/prog/MSE/LayerFun/LayerFunViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/geoff/prog/MSE/LayerFun/MainWindow.xib
+s332549243.803658
+e332549244.272360
+r1
+xCompileXIB
+x/Users/geoff/prog/MSE/LayerFun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib332549243#332549244#0(0"0(0#0#45"/Users/geoff/prog/MSE/LayerFun/MainWindow.xib8603453856#547"    cd /Users/geoff/prog/MSE/LayerFun    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/MainWindow.nib /Users/geoff/prog/MSE/LayerFun/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app.dSYM /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun
+s332549246.714637
+e332549246.783434
+r1
+xGenerateDSYMFile
+x/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app.dSYM
+x/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/LayerFun.app.dSYM build/Debug-iphonesimulator/LayerFun.app/LayerFun332549246#332549246#0(0"0(0#0#80"/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun8603702240#362"    cd /Users/geoff/prog/MSE/LayerFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun -o /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app.dSYM0#
+
+CLd /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun normal i386
+s332549246.383443
+e332549246.714525
+r1
+xLd
+x/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun
+xnormal
+xi386
+lSLF07#2@85"Link /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun332549246#332549246#0(0"0(0#0#0"8601385056#887"    cd /Users/geoff/prog/MSE/LayerFun    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -F/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -filelist /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/Objects-normal/i386/LayerFun.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/LayerFun0#
+
+CProcessInfoPlistFile /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/Info.plist LayerFun-Info.plist
+s332549243.776742
+e332549243.803518
+r1
+xProcessInfoPlistFile
+x/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/Info.plist
+xLayerFun-Info.plist
+lSLF07#2@27"Process LayerFun-Info.plist332549243#332549243#0(0"0(0#0#50"/Users/geoff/prog/MSE/LayerFun/LayerFun-Info.plist27303536605069420#458"    cd /Users/geoff/prog/MSE/LayerFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LayerFun-Info.plist -genpkginfo /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app/Info.plist0#
+
+CProcessPCH /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch.gch LayerFun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s332549244.490413
+e332549246.066055
+r1
+xProcessPCH
+x/var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch.gch
+xLayerFun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile LayerFun_Prefix.pch332549244#332549246#0(0"0(0#0#50"/Users/geoff/prog/MSE/LayerFun/LayerFun_Prefix.pch8611897088#1745"    cd /Users/geoff/prog/MSE/LayerFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-generated-files.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-own-target-headers.hmap -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-all-target-headers.hmap -iquote /Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/LayerFun-project-headers.hmap -F/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator -I/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/include -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources/i386 -I/Users/geoff/prog/MSE/LayerFun/build/LayerFun.build/Debug-iphonesimulator/LayerFun.build/DerivedSources -c /Users/geoff/prog/MSE/LayerFun/LayerFun_Prefix.pch -o /var/folders/zu/zumIOE5dGdiORrRb-5SgcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LayerFun_Prefix-fulbudvzidqhxibjjtmsplflkmwn/LayerFun_Prefix.pch.gch0#
+
+CTouch /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app
+s332549246.783523
+e332549246.822711
+r1
+xTouch
+x/Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app
+lSLF07#2@77"Touch /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app332549246#332549246#0(0"0(0#0#0"8601231872#263"    cd /Users/geoff/prog/MSE/LayerFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/geoff/prog/MSE/LayerFun/build/Debug-iphonesimulator/LayerFun.app0#
+
