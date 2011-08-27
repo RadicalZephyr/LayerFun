@@ -60,14 +60,14 @@
     CGFloat blue = [sliderBlue value];
     
     // Make a new color and change the main layer's background
-    self.view.layer.backgroundColor = [[UIColor colorWithHue:red
-                                                  saturation:green
-                                                  brightness:blue
+    self.view.layer.backgroundColor = [[UIColor colorWithRed:red
+                                                       green:green
+                                                        blue:blue
                                                        alpha:1.0] CGColor];
     //NSLog(@"Red: %f\nGreen: %f\nBlue: %f\n", red, green, blue);
-    [self changeSublayersToColor:[[UIColor colorWithHue:(CGFloat)(1.0 - red)
-                                             saturation:(CGFloat)(1.0 - green)
-                                             brightness:(CGFloat)(1.0 - blue)
+    [self changeSublayersToColor:[[UIColor colorWithRed:(CGFloat)(1.0 - red)
+                                                  green:(CGFloat)(1.0 - green)
+                                                   blue:(CGFloat)(1.0 - blue)
                                                   alpha:1.0] CGColor]];
     // Then invert the color (somehow) and change the sublayers
 }
